@@ -12,6 +12,8 @@ I wrote object recognition code using TensorFlow library.
 There is a camera on the line that takes photos of objects, then they are predicted and sorted into containers.
 
 ## 📷 Photos
-![Zdjęcie 1](photo/robot1.png)
-![Zdjęcie 2](photo/tasma1.png)
-![Zdjęcie 3](photo/rob-tas1.png)
+
+<img src="photo/robot1.png" alt="zdjęcie rozwiązane" width="400" height="400">
+<img src="photo/tasma1.png" alt="zdjęcie rozwiązane" width="600" height="400">
+<img src="photo/rob-tas1.png" alt="zdjęcie rozwiązane" width="600" height="400">
+
